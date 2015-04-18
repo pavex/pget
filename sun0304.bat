@@ -1,0 +1,1 @@
+php pget.php sun0304 http://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0304.jpg
